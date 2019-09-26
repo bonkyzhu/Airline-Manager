@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\bonky\desktop\c++设计\c++程序设计\c++程序设计\main.cpp(120): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+c:\users\bonky\desktop\c++设计\c++程序设计\c++程序设计\main.cpp(196): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+c:\users\bonky\desktop\c++设计\c++程序设计\c++程序设计\main.cpp(283): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+c:\users\bonky\desktop\c++设计\c++程序设计\c++程序设计\航班.h(98): warning C4715: “Airline::display_time”: 不是所有的控件路径都返回值
+  C++程序设计.vcxproj -> C:\Users\bonky\Desktop\C++设计\C++程序设计\x64\Debug\C++程序设计.exe
